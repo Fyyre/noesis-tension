@@ -135,4 +135,4 @@ Noesis has been tested with the following models:
 
 ### Acknowledgments
 
-Special thanks to the reverse engineering community and former colleagues (especially those from the Fyyre era) who helped shape the low-level thinking behind Noesis Tension.
+Special thanks to the reverse engineering community and former colleagues who helped shape the low-level thinking behind Noesis Tension.
